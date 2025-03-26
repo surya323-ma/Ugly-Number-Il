@@ -1,0 +1,14 @@
+Given an integer n,  return the nth ugly number.
+
+An ugly number is a positive integer whose prime factors are limited to 2, 3 and 5.
+
+Examples:
+
+Input: n = 5
+Output: 5
+Explanation: Ugly Numbers - 1, 2, 3, 4, 5, 6, 8, 9, 10, 12. So, 5th Ugly Number is 5
+Input: n = 10
+Output: 12
+Explanation: 10th Ugly Number is 12
+Constraints:
+1 ≤ n ≤ 1500
